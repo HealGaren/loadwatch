@@ -1,3 +1,5 @@
 build/
 __pycache__/
 .DS_Store
+# 옛 경로(~/work/loadwatch/slot) 호환 링크. 로컬 전용
+/slot
